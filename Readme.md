@@ -1,1 +1,3 @@
-Hola esta es mi segunda vez intentando crear esto :(
+Emmanuel Sanchez 2023-1216 
+
+Creacion de un CRUD sobre un inventario de una tienda de ropa

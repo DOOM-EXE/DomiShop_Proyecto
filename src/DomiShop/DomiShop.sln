@@ -7,6 +7,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomiShopApplication", "Domi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomiShop. API", "DomiShop. API\DomiShop. API.csproj", "{F003141B-0707-448F-A19A-1074BB9F9FB7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomiShop.Domain", "DomiShop.Domain\DomiShop.Domain.csproj", "{E1779B54-2405-4BF8-BDA6-DF5386D473AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomiShop.Application", "DomiShop.Application\DomiShop.Application.csproj", "{AD463574-DCB2-4435-9BA6-382D0C388101}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomiShop.Infraestructure", "DomiShop.Infraestructure\DomiShop.Infraestructure.csproj", "{5D85DC34-EE7F-444A-A3A9-6DF1CFFFCFC8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +27,18 @@ Global
 		{F003141B-0707-448F-A19A-1074BB9F9FB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F003141B-0707-448F-A19A-1074BB9F9FB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F003141B-0707-448F-A19A-1074BB9F9FB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1779B54-2405-4BF8-BDA6-DF5386D473AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1779B54-2405-4BF8-BDA6-DF5386D473AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1779B54-2405-4BF8-BDA6-DF5386D473AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1779B54-2405-4BF8-BDA6-DF5386D473AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD463574-DCB2-4435-9BA6-382D0C388101}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD463574-DCB2-4435-9BA6-382D0C388101}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD463574-DCB2-4435-9BA6-382D0C388101}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD463574-DCB2-4435-9BA6-382D0C388101}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D85DC34-EE7F-444A-A3A9-6DF1CFFFCFC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D85DC34-EE7F-444A-A3A9-6DF1CFFFCFC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D85DC34-EE7F-444A-A3A9-6DF1CFFFCFC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D85DC34-EE7F-444A-A3A9-6DF1CFFFCFC8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

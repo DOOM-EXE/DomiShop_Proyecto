@@ -1,0 +1,6 @@
+@DomiShop._API_HostAddress = http://localhost:5256
+
+GET {{DomiShop._API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

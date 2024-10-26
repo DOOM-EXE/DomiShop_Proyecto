@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomiShopApplication", "DomiShopApplication\DomiShopApplication.csproj", "{DBD3A53B-6381-4D81-BDB8-CE6976B1381A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomiShop. API", "DomiShop. API\DomiShop. API.csproj", "{F003141B-0707-448F-A19A-1074BB9F9FB7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{DBD3A53B-6381-4D81-BDB8-CE6976B1381A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DBD3A53B-6381-4D81-BDB8-CE6976B1381A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DBD3A53B-6381-4D81-BDB8-CE6976B1381A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F003141B-0707-448F-A19A-1074BB9F9FB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F003141B-0707-448F-A19A-1074BB9F9FB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F003141B-0707-448F-A19A-1074BB9F9FB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F003141B-0707-448F-A19A-1074BB9F9FB7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
